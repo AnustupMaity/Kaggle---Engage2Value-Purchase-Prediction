@@ -1,4 +1,6 @@
+# Engage2Value: From Clicks to Conversions Contest Link : https://www.kaggle.com/competitions/engage-2-value-from-clicks-to-conversions
 # Engage2Value: From Clicks to Conversions
+
 
 This repository contains a machine learning solution for the **Engage2Value: From Clicks to Conversions** competition. The project's goal is to predict a customer’s purchase value based on their multi-session behavior across various digital touchpoints.
 
